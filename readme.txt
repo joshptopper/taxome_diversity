@@ -6,7 +6,7 @@ bacteria present in the microbiome of 50 samples.
 The following file should be in you taxome_diversity directory:
 scriptDiS.py
 
-The folder inputfiles should be in you taxome_diversity directory.
+The folder inputfiles (will need to be unzipped) should be in you taxome_diversity directory.
 In the inputfiles folder:
 clnical_data.txt - contains information pertaining to 50 samples
 distanceFiles - folder that contains the distance values for each sample
